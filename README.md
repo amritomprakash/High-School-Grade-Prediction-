@@ -1,7 +1,6 @@
 # High-School-Grade-Prediction
 
 This repository holds all the files corresponding to the prediction of High School Grades of a student using Multiple Machine Learning 
-
 algorithms.Each folder corresponds to a particular algorithm and consists of the Jupyter Notebook with the code and a report.
 
 # Algorithms:
